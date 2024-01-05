@@ -99,3 +99,21 @@ nav li a{
     text-align: center;
     font-size: 18px;
 }
+
+main{
+    max-width:1140px;
+    margin: 0 auto;
+}
+
+.about_info_container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about_info{
+    text-align: center;
+}
+
+#what_i_do_description{
+    padding: 30px 150px;
+}
